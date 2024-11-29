@@ -1,0 +1,13 @@
+[package]
+name = "focus"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+minimp3 = "0.5"
+crossterm = "0.28.1"
+rodio = "0.20.1"
+
+[[bin]]
+name = "focus"
+path = "src/main.rs"

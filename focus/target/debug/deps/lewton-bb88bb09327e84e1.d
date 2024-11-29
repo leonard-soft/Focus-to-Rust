@@ -1,0 +1,13 @@
+/home/liux/Desktop/fo/focus/target/debug/deps/liblewton-bb88bb09327e84e1.rmeta: /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/lib.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/header.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/header_cached.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/huffman_tree.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/imdct.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/audio.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/bitpacking.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/inside_ogg.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/samples.rs
+
+/home/liux/Desktop/fo/focus/target/debug/deps/lewton-bb88bb09327e84e1.d: /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/lib.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/header.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/header_cached.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/huffman_tree.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/imdct.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/audio.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/bitpacking.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/inside_ogg.rs /home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/samples.rs
+
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/lib.rs:
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/header.rs:
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/header_cached.rs:
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/huffman_tree.rs:
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/imdct.rs:
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/audio.rs:
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/bitpacking.rs:
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/inside_ogg.rs:
+/home/liux/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lewton-0.10.2/src/samples.rs:
